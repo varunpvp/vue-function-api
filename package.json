@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "bulma": "^0.7.5",
+    "vue": "^2.6.10",
+    "vue-function-api": "^2.0.6",
+    "vue-template-compiler": "^2.6.10"
+  },
+  "alias": {
+    "vue": "./node_modules/vue/dist/vue.common.js"
+  }
+}
